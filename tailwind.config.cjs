@@ -362,6 +362,7 @@ module.exports = {
     },
     fontFamily: {
       sans: [
+        'Do Hyeon',
         'ui-sans-serif',
         'system-ui',
         '-apple-system',
